@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/eventease-45884-9d464e7c/eventease_backend"
+}
